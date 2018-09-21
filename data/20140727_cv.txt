@@ -1,0 +1,17 @@
+Kaga, 8081
+Akagi, 6966
+Ryuujou, 3136
+Zuikaku, 2002
+Shoukaku, 1863
+Zuihou, 1732
+Taihou, 1547
+Hiryuu, 1430
+Souryuu, 1424
+Houshou, 1166
+Junyou, 1039
+Taigei, 599
+Hiyou, 501
+Chitose, 488
+Shouhou, 411
+Chiyoda, 311
+Ryuuhou, 190
